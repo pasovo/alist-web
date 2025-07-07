@@ -7,4 +7,3 @@ pnpm-lock.yaml
 *.ttf
 *.otf
 *.woff2
-.env*
